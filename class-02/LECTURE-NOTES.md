@@ -32,12 +32,12 @@
   - What CSP will we be using in Ops 401?
     - AWS
 
-      ![Cloud Market Share June 2020](../assets/cloud_market.jpg)
+      ![Cloud Market Share June 2020](./assets/cloud_market.jpg)
 
   - What does **abstracted** mean?
     - A process that you'd normally have to configure and oversee in a LAN gets "abstracted away" on the cloud.
 
-    ![../assets/class02.png](../assets/class02.png)
+    ![../assets/class02.png](./assets/class02.png)
 
   - What is the **Shared Responsibility Model**?
     - Reference [AWS documentation](https://aws.amazon.com/compliance/shared-responsibility-model/). Also, there's an old [slide deck](https://www.slideshare.net/AlertLogic/the-aws-shared-responsibility-model-presented-by-amazon-web-services) on this topic.
@@ -45,7 +45,7 @@
       - Customers are responsible for their security and compliance IN the cloud
       - AWS is responsible for the security OF the cloud
 
-      ![aws-model.jpg](../assets/aws-model.jpg)
+      ![aws-model.jpg](./assets/aws-model.jpg)
 
     - Standard services
     - Container services
@@ -65,7 +65,7 @@
     - The **Statements on Standards for Attestation Engagements (SSAE)** are audit specifications developed by the American Institute of Certified Public Accountants (AICPA)
       - The **Service Organization Control (SOC2)** framework evaluates the internal controls implemented by the service provider to ensure compliance with Trust Services Criteria (TSC) when storing and processing customer data.
 
-      ![SOC2](../assets/soc2.jpg)
+      ![SOC2](./assets/soc2.jpg)
 
       - SOC3
         - Main difference is that SOC 2 is a restricted use report while SOC 3 is a general use report
