@@ -32,10 +32,10 @@
 
 - **What** (10 min)
   - What is a vulnerability?
-      - NIST definition: Weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.
-      - Important to differentiate vulnerability, exploit, and risk.
-      - Not all vulnerabilities are likely to be exploited or high risk.
-      - Prioritize your vulnerabilities.
+    - NIST definition: Weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.
+    - Important to differentiate vulnerability, exploit, and risk.
+    - Not all vulnerabilities are likely to be exploited or high risk.
+    - Prioritize your vulnerabilities.
 
   > Careful with the next section on careers; the language and scope for job titles varies dramatically! Emphasize the job may or may not include network vulnerabilities VS application security vulnerabilities analysis.
 
